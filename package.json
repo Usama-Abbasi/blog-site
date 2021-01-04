@@ -16,8 +16,16 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.2",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "dotenv": "^8.2.0",
     "gatsby": "^2.26.1",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-source-contentful": "^4.3.1",
+    "gatsby-transformer-remark": "^2.13.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-typing-animation": "^1.6.2"
   }
 }

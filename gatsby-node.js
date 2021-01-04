@@ -6,7 +6,7 @@ exports.createPages=async ({actions,graphql}) => {
     allContentfulBlogPost {
         nodes {
           body {
-            raw
+            json
           }
           slug
           publisheddate(formatString: "DD MMMM,YYYY")

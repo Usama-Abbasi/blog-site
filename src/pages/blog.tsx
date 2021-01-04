@@ -31,9 +31,6 @@ export default function Blog() {
         query{
         allContentfulBlogPost {
             nodes {
-              body {
-                raw
-              }
               slug
               publisheddate(formatString: "DD MMMM,YYYY")
               title

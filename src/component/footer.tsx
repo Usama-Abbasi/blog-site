@@ -59,7 +59,7 @@ export default function LabelBottomNavigation() {
         
       </BottomNavigation>
       <h5 >
-       © {new Date().getFullYear()}, Tech Curve Guide
+       © {new Date().getFullYear()}
       </h5>
      
     </div>

@@ -1,15 +1,15 @@
-.narbar {
+.navbar {
     background-color: #00004b;
     text-align: center;
     padding: 20px 0;
 }
-.narbar >a {
+.navbar >a {
     margin: 0 10px;
     color: white;
     text-decoration: none;
     padding: 8px;
 }
 
-.narbar >a:hover {
+.navbar >a:hover {
     color:white
 }

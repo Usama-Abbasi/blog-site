@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Grid ,makeStyles,createStyles,Theme,Button} from '@material-ui/core';
+import { Grid ,makeStyles,createStyles} from '@material-ui/core';
 import Layout from '..//component/layout';
 import work from '..//images/work.gif';
 const useStyles = makeStyles((theme) =>
